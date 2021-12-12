@@ -6,15 +6,15 @@ Due to upcoming "silver tsunami “, we’ll write a report to help the manager 
 ## Data Module:
 ![DBD](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/DBD.png)
 ## Results: 
-#### < Table 1. retiring_titles >
-![retiring_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/retiring_titles.png)
-  + Over 20000 senior engineer and senior staff will retire
-  + Over 10000 engineer and staff will retire.
->
-#### < Table 2. unique_titles  >
+#### < Table 1. unique_titles  >
 ![unique_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/unique_titles.png)
   + Table of unique_titles list the upcoming retired employees.
   + Total upcoming retired employees are 90398 individuals.
+>
+#### < Table 2. retiring_titles >
+![retiring_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/retiring_titles.png)
+  + Over 20000 senior engineer and senior staff will retire
+  + Over 10000 engineer and staff will retire.
 >
 #### < Table 3. mentorship >
 ![mentorship](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/mentorship.png)
