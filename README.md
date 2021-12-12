@@ -4,20 +4,20 @@
 Due to upcoming "silver tsunami “, we’ll write a report to help the manager prepare and hire new employees. First, we would like to know how many current employees reach retirement age. Second, we want to know retiring employees who can be eligible to participate in a mentorship program. Based on our database, SQL and Quick DBD are utilized for data analysis.
 >
 ## Data Module:
-![DBD]()
-## results: 
-#### < Table 1. retiring_titles >
-![retiring_titles]()
-  + Over 20000 senior engineer and senior staff will retire
-  + Over 10000 engineer and staff will retire.
->
-#### < Table 2. unique_titles  >
-![unique_titles]()
+![DBD](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/DBD.png)
+## Results: 
+#### < Table 1. unique_titles  >
+![unique_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/unique_titles.png)
   + Table of unique_titles list the upcoming retired employees.
   + Total upcoming retired employees are 90398 individuals.
 >
+#### < Table 2. retiring_titles >
+![retiring_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/retiring_titles.png)
+  + Over 20000 senior engineer and senior staff will retire
+  + Over 10000 engineer and staff will retire.
+>
 #### < Table 3. mentorship >
-![mentorship]()
+![mentorship](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/mentorship.png)
   + Those whom been selected were born between January 1, 1965 and December 31, 1965. They may be elder employs but doesn’t mean they have appropriate experiences to serve as mentors. So, we can further filter the pool with how long they work for the company and find out those experienced mentors. 
 >
 ## Summary: 
