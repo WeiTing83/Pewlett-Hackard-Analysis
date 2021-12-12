@@ -5,7 +5,7 @@ Due to upcoming "silver tsunami “, we’ll write a report to help the manager 
 >
 ## Data Module:
 ![DBD](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/DBD.png)
-## results: 
+## Results: 
 #### < Table 1. retiring_titles >
 ![retiring_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/retiring_titles.png)
   + Over 20000 senior engineer and senior staff will retire
