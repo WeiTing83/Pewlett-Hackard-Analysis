@@ -4,7 +4,7 @@
 Due to upcoming "silver tsunami “, we’ll write a report to help the manager prepare and hire new employees. First, we would like to know how many current employees reach retirement age. Second, we want to know retiring employees who can be eligible to participate in a mentorship program. Based on our database, SQL and Quick DBD are utilized for data analysis.
 >
 ## Data Module:
-![DBD](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/DBD.png)
+![EmployeeDB](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/DBD.png)
 ## Results: 
 #### < Table 1. unique_titles  >
 ![unique_titles](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/Data%20folder/unique_titles.png)
