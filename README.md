@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the analysis: 
-Due to upcoming "silver tsunami “, we’ll write a report to help the manager prepare and hire new employees. First, we would like to know how many current employees reach retirement age. Second, we want to know who are eligible to participate for a mentorship program. Based on our database, SQL and Quick DBD are utilized for data analysis.
+Due to upcoming "silver tsunami “, we’ll write a report to help the manager create a data-driven hiring strategy. First, we would like to know how many existing employees reaching retirement age. Second, we want to know who are eligible to participate for a mentorship program. SQL and Quick DBD are utilized for data analysis.
 >
 ## Data Module:
 ![EmployeeDB](https://github.com/WeiTing83/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png.png)
